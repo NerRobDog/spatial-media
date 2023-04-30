@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: spatialmedia
+Version: 2.1a1
+Summary: Specifications and tools for 360 video and spatial audio.
+Home-page: https://github.com/google/spatial-media
+Author: Google Inc
+License: Apache License 2.0
+License-File: LICENSE

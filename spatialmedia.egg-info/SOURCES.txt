@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+spatialmedia/__init__.py
+spatialmedia/__main__.py
+spatialmedia/gui.py
+spatialmedia/metadata_utils.py
+spatialmedia.egg-info/PKG-INFO
+spatialmedia.egg-info/SOURCES.txt
+spatialmedia.egg-info/dependency_links.txt
+spatialmedia.egg-info/top_level.txt
+spatialmedia/mpeg/__init__.py
+spatialmedia/mpeg/box.py
+spatialmedia/mpeg/constants.py
+spatialmedia/mpeg/container.py
+spatialmedia/mpeg/mpeg4_container.py
+spatialmedia/mpeg/sa3d.py
